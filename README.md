@@ -1,4 +1,8 @@
 # openwrt-passwall
+Thos Version Is Modified, with a different package name: luci-app-passwall-pinsha256.
+There's a compiled *.ipk in release which have the same package name with the original one.
+Please install with --force-overwrite behind if you already installed.
+
 A commonly used proxy toolchain for Openwrt LuCI Application.
 
 ## How to use
