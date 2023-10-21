@@ -1,5 +1,5 @@
-# openwrt-passwall
-Thos Version Is Modified, with a different package name: luci-app-passwall-pinsha256.
+# openwrt-passwall-pinsha256
+Thos Version is Modified for hysteria2 user, myself of course, with a different package name: luci-app-passwall-pinsha256.
 There's a compiled *.ipk in release which have the same package name with the original one.
 Please install with --force-overwrite behind if you already installed.
 
